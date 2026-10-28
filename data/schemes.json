@@ -1,0 +1,66 @@
+[
+  {
+    "id": "pm-kisan",
+    "schemeName": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+    "category": "Agriculture",
+    "minAge": 18,
+    "maxAge": 100,
+    "maxIncome": 0,
+    "targetAudience": ["farmer", "agricultural worker", "landholding farmer"],
+    "keyBenefit": "Financial benefit of ₹6,000 per year in three equal installments directly into bank accounts.",
+    "applicationSteps": [
+      "Visit pmkisan.gov.in or nearest Common Service Centre (CSC)",
+      "Submit Aadhaar details and land ownership records",
+      "Complete e-KYC authentication on portal"
+    ],
+    "link": "https://pmkisan.gov.in"
+  },
+  {
+    "id": "pm-vishwakarma",
+    "schemeName": "PM Vishwakarma Scheme",
+    "category": "Skill & Loans",
+    "minAge": 18,
+    "maxAge": 75,
+    "maxIncome": 0,
+    "targetAudience": ["artisan", "craftsman", "cobbler", "blacksmith", "carpenter", "weaver", "small business"],
+    "keyBenefit": "Collateral-free enterprise development loan up to ₹3 Lakhs at 5% concessional interest rate.",
+    "applicationSteps": [
+      "Apply through nearest CSC portal with Aadhaar and mobile number",
+      "Complete 3-step verification (Gram Panchayat, District, and State levels)",
+      "Receive digital ID, skill training toolkit voucher of ₹15,000, and credit support"
+    ],
+    "link": "https://pmvishwakarma.gov.in"
+  },
+  {
+    "id": "pm-ayushman",
+    "schemeName": "Ayushman Bharat (PM-JAY)",
+    "category": "Healthcare",
+    "minAge": 0,
+    "maxAge": 100,
+    "maxIncome": 250000,
+    "targetAudience": ["low-income family", "bpl", "unorganized worker", "rural family"],
+    "keyBenefit": "Free health coverage up to ₹5 Lakhs per family per year for secondary and tertiary care hospitalization.",
+    "applicationSteps": [
+      "Check eligibility at beneficiary.nha.gov.in using mobile number or Ration Card",
+      "Visit any empaneled government/private hospital with Aadhaar",
+      "Generate Ayushman Card instantly at hospital helpdesk"
+    ],
+    "link": "https://pmjay.gov.in"
+  },
+  {
+    "id": "pm-vidyasaarthi",
+    "schemeName": "PM Vidya Lakshmi Higher Education Loan",
+    "category": "Education",
+    "minAge": 17,
+    "maxAge": 30,
+    "maxIncome": 450000,
+    "targetAudience": ["student", "college student", "fresher", "undergraduate"],
+    "keyBenefit": "Interest subvention on education loans up to ₹10 Lakhs for higher studies in premier institutions.",
+    "applicationSteps": [
+      "Register on vidyalakshmi.co.in portal",
+      "Fill Common Educational Loan Application Form (CELAF)",
+      "Apply directly to multiple nationalized banks online"
+    ],
+    "link": "https://www.vidyalakshmi.co.in"
+  }
+]
