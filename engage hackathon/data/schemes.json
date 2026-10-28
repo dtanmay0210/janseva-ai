@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "PM-Vidyalaxmi Education Loan Scheme",
+    "category": "Education",
+    "targetGroup": "College Students",
+    "incomeLimit": 800000,
+    "benefits": "Collateral-free education loans up to ₹10 Lakhs",
+    "documents": ["Aadhaar Card", "College Admission Letter", "Income Certificate"],
+    "link": "https://www.pmvidyalaxmi.gov.in"
+  },
+  {
+    "id": "2",
+    "name": "Central Sector Scheme of Scholarships for College Students",
+    "category": "Education",
+    "targetGroup": "College Students",
+    "incomeLimit": 450000,
+    "benefits": "Financial assistance of ₹12,000 to ₹20,000 per year",
+    "documents": ["Class 12 Marksheet", "Income Certificate", "Bank Passbook"],
+    "link": "https://scholarships.gov.in"
+  },
+  {
+    "id": "3",
+    "name": "PM Vishwakarma Scheme",
+    "category": "Employment & Artisans",
+    "targetGroup": "Artisans / Small Business",
+    "incomeLimit": 500000,
+    "benefits": "Collateral-free loans up to ₹3 Lakhs at 5% interest + ₹15,000 toolkit voucher",
+    "documents": ["Aadhaar Card", "Trade Verification", "Bank Account Details"],
+    "link": "https://pmvishwakarma.gov.in"
+  },
+  {
+    "id": "4",
+    "name": "Ayushman Bharat (PM-JAY)",
+    "category": "Healthcare",
+    "targetGroup": "Low-Income Families",
+    "incomeLimit": 250000,
+    "benefits": "Free health coverage up to ₹5 Lakh per family per year",
+    "documents": ["Aadhaar Card", "Ration Card"],
+    "link": "https://pmjay.gov.in"
+  }
+]
